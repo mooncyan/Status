@@ -10,9 +10,9 @@ sites:
   - name: THORN Website
     url: https://www.thorn.so
   - name: THORN Data Sync Service (Asia)
-    url: hhttps://hk.syncpoint.thorn.so/latency
+    url: https://hk.syncpoint.thorn.so/latency
   - name: THORN Data Sync Service (North America)
-    url: hhttps://sv.syncpoint.thorn.so/latency
+    url: https://sv.syncpoint.thorn.so/latency
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
