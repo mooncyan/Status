@@ -15,8 +15,6 @@ sites:
     url: https://hk.syncpoint.thorn.so/latency
   - name: THORN Data Sync Service (North America)
     url: https://sv.syncpoint.thorn.so/latency
-  - name: THORN 官网 (中国)
-    url: https://thorn.red
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
