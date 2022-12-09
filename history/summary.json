@@ -76,19 +76,19 @@
     "url": "https://sv.syncpoint.thorn.so/latency",
     "icon": "https://icons.duckduckgo.com/ip3/sv.syncpoint.thorn.so.ico",
     "slug": "thorn-data-sync-service-north-america",
-    "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
-    "time": 388,
-    "timeDay": 388,
-    "timeWeek": 388,
-    "timeMonth": 388,
-    "timeYear": 388,
+    "status": "up",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
+    "time": 378,
+    "timeDay": 378,
+    "timeWeek": 378,
+    "timeMonth": 378,
+    "timeYear": 378,
     "dailyMinutesDown": {
-      "2022-12-09": 46
+      "2022-12-09": 66
     }
   }
 ]
