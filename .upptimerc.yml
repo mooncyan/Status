@@ -26,7 +26,7 @@ status-website:
   theme: light
   favicon: https://i.imgur.com/U5vUXVi.png
   introTitle: "**THORN** Status"
-  introMessage: You can get updates on how our systems are doing. If there are interruptions to service, we will post a note here. As always, if you are experiencing any issues with THORN, don't hesitate to get in touch with us at support@thorn.so.
+  introMessage: You can get updates on how our systems are doing. If there are interruptions to service, we will post a note here. As always, if you are experiencing any issues, don't hesitate to get in touch with us at [support@thorn.so](mailto:support@thorn.so).
   css: "nav { opacity: 0; pointer-events: none }"
 
 # Upptime also supports notifications, assigning issues, and more
