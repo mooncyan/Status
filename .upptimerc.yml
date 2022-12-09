@@ -26,11 +26,10 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: THORN
   theme: light
+  favicon: https://i.imgur.com/U5vUXVi.png
   introTitle: "**THORN** Status"
   introMessage: You can get updates on how our systems are doing. If there are interruptions to service, we will post a note here. As always, if you are experiencing any issues with THORN, don't hesitate to get in touch with us at support@thorn.so.
-  navbar:
-    - title: Status
-      href: /
+  css: "nav { opacity: 0; pointer-events: none }"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
