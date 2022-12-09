@@ -1,5 +1,5 @@
 # Change these first
-owner: Alecyrus # Your GitHub organization or username, where this repository lives
+owner: Mooncyan # Your GitHub organization or username, where this repository lives
 repo: Status # The name of this repository
 
 sites:
@@ -16,10 +16,21 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: THORN
   introTitle: "**THORN** is the writing tool, made by Mooncyan."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a status page for THORN Services, where you can get updates on how our systems are doing. If there are interruptions to service, we will post a note here. As always, if you are experiencing any issues with THORN, don't hesitate to get in touch with us at support@thorn.so and we'll get back to you as soon as we can.
   navbar:
     - title: Status
       href: /
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+
+
+i18n:
+  footer: Powered by [Upptime](https://upptime.js.org)
+  
+  
+
