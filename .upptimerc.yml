@@ -21,7 +21,7 @@ status-website:
   baseUrl: /Status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: THORN
-  theme: ocean
+  theme: light
   introTitle: "**THORN** Status"
   introMessage: You can get updates on how our systems are doing. If there are interruptions to service, we will post a note here. As always, if you are experiencing any issues with THORN, don't hesitate to get in touch with us at support@thorn.so.
   navbar:
