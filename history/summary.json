@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.thorn.so.ico",
     "slug": "thorn-auth-service",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 895,
     "timeDay": 868,
     "timeWeek": 875,
     "timeMonth": 890,
     "timeYear": 895,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 11
     }
   },
   {
@@ -82,9 +82,9 @@
     "url": "https://hk.syncpoint.thorn.so/latency",
     "icon": "https://icons.duckduckgo.com/ip3/hk.syncpoint.thorn.so.ico",
     "slug": "thorn-data-sync-service-asia",
-    "status": "up",
+    "status": "down",
     "uptime": "98.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.68%",
@@ -94,6 +94,7 @@
     "timeMonth": 912,
     "timeYear": 1067,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-12-18": 897
     }
   },
