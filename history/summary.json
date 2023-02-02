@@ -24,19 +24,19 @@
     "url": "https://www.thorn.so",
     "icon": "https://icons.duckduckgo.com/ip3/www.thorn.so.ico",
     "slug": "thorn-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 550,
-    "timeDay": 645,
-    "timeWeek": 610,
-    "timeMonth": 577,
-    "timeYear": 550,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 552,
+    "timeDay": 694,
+    "timeWeek": 627,
+    "timeMonth": 582,
+    "timeYear": 552,
     "dailyMinutesDown": {
-      "2023-02-02": 1
+      "2023-02-02": 17
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://www.thorn.so",
     "icon": "https://icons.duckduckgo.com/ip3/www.thorn.so.ico",
     "slug": "thorn-website-china",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 75,
-    "timeDay": 89,
-    "timeWeek": 75,
-    "timeMonth": 77,
-    "timeYear": 75,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 77,
+    "timeDay": 156,
+    "timeWeek": 93,
+    "timeMonth": 82,
+    "timeYear": 77,
     "dailyMinutesDown": {
-      "2023-02-02": 0
+      "2023-02-02": 17
     }
   },
   {
