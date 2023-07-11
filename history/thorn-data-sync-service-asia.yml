@@ -1,7 +1,7 @@
 url: https://hk.syncpoint.thorn.so/latency
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-07-10T23:13:17.255Z
+status: up
+code: 200
+responseTime: 786
+lastUpdated: 2023-07-11T04:34:55.040Z
 startTime: Fri Dec 09 2022 03:28:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
