@@ -1,7 +1,7 @@
 url: https://syncpoint.thorn.red/latency
-status: up
-code: 200
-responseTime: 4743
-lastUpdated: 2023-09-20T10:54:37.941Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-09-20T11:17:47.922Z
 startTime: 2022-12-09T04:37:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
