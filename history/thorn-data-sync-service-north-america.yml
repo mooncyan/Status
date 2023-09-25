@@ -1,7 +1,7 @@
 url: https://sv.syncpoint.thorn.so/latency
-status: up
-code: 200
-responseTime: 743
-lastUpdated: 2023-09-24T23:09:39.497Z
+status: down
+code: 503
+responseTime: 621
+lastUpdated: 2023-09-25T16:42:22.960Z
 startTime: 2022-12-09T03:28:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
