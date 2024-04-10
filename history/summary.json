@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.thorn.so.ico",
     "slug": "thorn-auth-service",
     "status": "up",
-    "uptime": "98.46%",
+    "uptime": "98.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.24%",
     "time": 992,
-    "timeDay": 1059,
-    "timeWeek": 915,
-    "timeMonth": 907,
+    "timeDay": 995,
+    "timeWeek": 956,
+    "timeMonth": 916,
     "timeYear": 1010,
     "dailyMinutesDown": {
       "2024-02-09": 172,
@@ -51,8 +51,7 @@
       "2023-05-25": 483,
       "2023-05-22": 136,
       "2023-05-17": 378,
-      "2023-05-16": 137,
-      "2023-04-11": 401
+      "2023-05-16": 137
     }
   },
   {
@@ -66,10 +65,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 745,
-    "timeDay": 836,
-    "timeWeek": 833,
-    "timeMonth": 779,
+    "time": 746,
+    "timeDay": 894,
+    "timeWeek": 876,
+    "timeMonth": 791,
     "timeYear": 779,
     "dailyMinutesDown": {
       "2024-01-12": 15,
@@ -90,10 +89,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 72,
-    "timeDay": 26,
+    "timeDay": 89,
     "timeWeek": 49,
-    "timeMonth": 47,
-    "timeYear": 67,
+    "timeMonth": 50,
+    "timeYear": 66,
     "dailyMinutesDown": {
       "2024-01-12": 15,
       "2023-12-16": 50,
@@ -112,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.18%",
-    "time": 1383,
-    "timeDay": 1251,
-    "timeWeek": 1106,
-    "timeMonth": 1173,
-    "timeYear": 1422,
+    "time": 1384,
+    "timeDay": 1153,
+    "timeWeek": 1144,
+    "timeMonth": 1177,
+    "timeYear": 1424,
     "dailyMinutesDown": {
       "2023-11-25": 580,
       "2023-10-30": 16,
@@ -164,8 +163,7 @@
       "2023-05-25": 483,
       "2023-05-22": 135,
       "2023-05-17": 378,
-      "2023-05-16": 136,
-      "2023-04-11": 401
+      "2023-05-16": 136
     }
   },
   {
@@ -174,15 +172,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/hk.syncpoint.thorn.so.ico",
     "slug": "thorn-data-sync-service-asia",
     "status": "up",
-    "uptime": "98.33%",
+    "uptime": "98.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.23%",
     "time": 966,
-    "timeDay": 728,
-    "timeWeek": 775,
-    "timeMonth": 861,
+    "timeDay": 992,
+    "timeWeek": 831,
+    "timeMonth": 860,
     "timeYear": 956,
     "dailyMinutesDown": {
       "2024-02-09": 172,
@@ -221,8 +219,7 @@
       "2023-05-25": 482,
       "2023-05-22": 135,
       "2023-05-17": 378,
-      "2023-05-16": 135,
-      "2023-04-11": 400
+      "2023-05-16": 135
     }
   },
   {
@@ -231,15 +228,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sv.syncpoint.thorn.so.ico",
     "slug": "thorn-data-sync-service-north-america",
     "status": "up",
-    "uptime": "98.32%",
+    "uptime": "98.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.17%",
     "time": 379,
-    "timeDay": 704,
-    "timeWeek": 530,
-    "timeMonth": 462,
+    "timeDay": 497,
+    "timeWeek": 477,
+    "timeMonth": 461,
     "timeYear": 384,
     "dailyMinutesDown": {
       "2024-01-08": 205,
@@ -281,8 +278,7 @@
       "2023-05-25": 482,
       "2023-05-22": 134,
       "2023-05-17": 378,
-      "2023-05-16": 135,
-      "2023-04-11": 400
+      "2023-05-16": 135
     }
   }
 ]
