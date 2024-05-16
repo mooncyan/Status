@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.32%",
     "time": 985,
-    "timeDay": 517,
-    "timeWeek": 785,
-    "timeMonth": 873,
-    "timeYear": 1000,
+    "timeDay": 1182,
+    "timeWeek": 850,
+    "timeMonth": 882,
+    "timeYear": 1001,
     "dailyMinutesDown": {
       "2024-02-09": 172,
       "2024-02-08": 471,
@@ -49,8 +49,7 @@
       "2023-05-27": 347,
       "2023-05-26": 191,
       "2023-05-25": 483,
-      "2023-05-22": 136,
-      "2023-05-17": 378
+      "2023-05-22": 136
     }
   },
   {
@@ -64,11 +63,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 760,
-    "timeDay": 885,
-    "timeWeek": 580,
-    "timeMonth": 738,
-    "timeYear": 780,
+    "time": 761,
+    "timeDay": 862,
+    "timeWeek": 622,
+    "timeMonth": 733,
+    "timeYear": 782,
     "dailyMinutesDown": {
       "2024-01-12": 15,
       "2023-12-16": 50,
@@ -88,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 70,
-    "timeDay": 68,
-    "timeWeek": 75,
-    "timeMonth": 62,
+    "timeDay": 23,
+    "timeWeek": 65,
+    "timeMonth": 61,
     "timeYear": 65,
     "dailyMinutesDown": {
       "2024-01-12": 15,
@@ -105,15 +104,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/syncpoint.thorn.red.ico",
     "slug": "thorn-data-sync-service-china",
     "status": "up",
-    "uptime": "98.46%",
+    "uptime": "98.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.26%",
     "time": 1371,
-    "timeDay": 1206,
-    "timeWeek": 1105,
-    "timeMonth": 1156,
+    "timeDay": 1097,
+    "timeWeek": 1120,
+    "timeMonth": 1158,
     "timeYear": 1426,
     "dailyMinutesDown": {
       "2023-11-25": 580,
@@ -160,8 +159,7 @@
       "2023-05-27": 347,
       "2023-05-26": 190,
       "2023-05-25": 483,
-      "2023-05-22": 135,
-      "2023-05-17": 378
+      "2023-05-22": 135
     }
   },
   {
@@ -176,9 +174,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.31%",
     "time": 959,
-    "timeDay": 619,
-    "timeWeek": 759,
-    "timeMonth": 847,
+    "timeDay": 1008,
+    "timeWeek": 802,
+    "timeMonth": 859,
     "timeYear": 937,
     "dailyMinutesDown": {
       "2024-02-09": 172,
@@ -215,8 +213,7 @@
       "2023-05-27": 347,
       "2023-05-26": 190,
       "2023-05-25": 482,
-      "2023-05-22": 135,
-      "2023-05-17": 378
+      "2023-05-22": 135
     }
   },
   {
@@ -230,10 +227,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.25%",
-    "time": 379,
-    "timeDay": 126,
-    "timeWeek": 261,
-    "timeMonth": 342,
+    "time": 380,
+    "timeDay": 522,
+    "timeWeek": 291,
+    "timeMonth": 344,
     "timeYear": 384,
     "dailyMinutesDown": {
       "2024-01-08": 205,
@@ -273,8 +270,7 @@
       "2023-05-27": 347,
       "2023-05-26": 189,
       "2023-05-25": 482,
-      "2023-05-22": 134,
-      "2023-05-17": 378
+      "2023-05-22": 134
     }
   }
 ]
