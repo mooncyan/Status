@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "98.92%",
-    "time": 981,
-    "timeDay": 941,
-    "timeWeek": 828,
-    "timeMonth": 865,
+    "time": 982,
+    "timeDay": 958,
+    "timeWeek": 892,
+    "timeMonth": 863,
     "timeYear": 998,
     "dailyMinutesDown": {
       "2024-05-23": 168,
@@ -40,8 +40,7 @@
       "2023-07-10": 147,
       "2023-06-25": 123,
       "2023-06-24": 340,
-      "2023-06-09": 49,
-      "2023-06-06": 65
+      "2023-06-09": 49
     }
   },
   {
@@ -55,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 758,
-    "timeDay": 405,
-    "timeWeek": 352,
-    "timeMonth": 515,
-    "timeYear": 774,
+    "time": 757,
+    "timeDay": 402,
+    "timeWeek": 376,
+    "timeMonth": 511,
+    "timeYear": 773,
     "dailyMinutesDown": {
       "2024-01-12": 15,
       "2023-12-16": 50,
@@ -79,9 +78,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 69,
-    "timeDay": 56,
-    "timeWeek": 51,
-    "timeMonth": 56,
+    "timeDay": 62,
+    "timeWeek": 53,
+    "timeMonth": 57,
     "timeYear": 64,
     "dailyMinutesDown": {
       "2024-01-12": 15,
@@ -97,14 +96,14 @@
     "slug": "thorn-data-sync-service-china",
     "status": "up",
     "uptime": "96.87%",
-    "uptimeDay": "62.82%",
-    "uptimeWeek": "8.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "23.26%",
     "uptimeMonth": "70.47%",
     "uptimeYear": "96.44%",
-    "time": 1378,
-    "timeDay": 1091,
-    "timeWeek": 1091,
-    "timeMonth": 1181,
+    "time": 1377,
+    "timeDay": 1039,
+    "timeWeek": 1073,
+    "timeMonth": 1164,
     "timeYear": 1439,
     "dailyMinutesDown": {
       "2024-06-03": 611,
@@ -151,8 +150,7 @@
       "2023-07-10": 146,
       "2023-06-25": 123,
       "2023-06-24": 339,
-      "2023-06-09": 49,
-      "2023-06-06": 64
+      "2023-06-09": 49
     }
   },
   {
@@ -167,10 +165,10 @@
     "uptimeMonth": "99.51%",
     "uptimeYear": "98.90%",
     "time": 953,
-    "timeDay": 955,
-    "timeWeek": 722,
-    "timeMonth": 812,
-    "timeYear": 932,
+    "timeDay": 1055,
+    "timeWeek": 800,
+    "timeMonth": 811,
+    "timeYear": 933,
     "dailyMinutesDown": {
       "2024-05-23": 213,
       "2024-02-09": 172,
@@ -197,8 +195,7 @@
       "2023-07-10": 146,
       "2023-06-25": 124,
       "2023-06-24": 338,
-      "2023-06-09": 48,
-      "2023-06-06": 64
+      "2023-06-09": 48
     }
   },
   {
@@ -207,15 +204,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sv.syncpoint.thorn.so.ico",
     "slug": "thorn-data-sync-service-north-america",
     "status": "up",
-    "uptime": "98.46%",
+    "uptime": "98.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "98.84%",
     "time": 385,
-    "timeDay": 203,
-    "timeWeek": 542,
-    "timeMonth": 528,
+    "timeDay": 487,
+    "timeWeek": 537,
+    "timeMonth": 533,
     "timeYear": 402,
     "dailyMinutesDown": {
       "2024-05-25": 43,
@@ -247,8 +244,7 @@
       "2023-07-10": 145,
       "2023-06-25": 124,
       "2023-06-24": 338,
-      "2023-06-09": 48,
-      "2023-06-06": 63
+      "2023-06-09": 48
     }
   }
 ]
