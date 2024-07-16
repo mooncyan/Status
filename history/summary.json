@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.26%",
-    "time": 978,
-    "timeDay": 800,
-    "timeWeek": 766,
-    "timeMonth": 826,
-    "timeYear": 979,
+    "time": 977,
+    "timeDay": 658,
+    "timeWeek": 734,
+    "timeMonth": 820,
+    "timeYear": 978,
     "dailyMinutesDown": {
       "2024-05-23": 168,
       "2024-02-09": 172,
@@ -31,8 +31,7 @@
       "2023-08-04": 112,
       "2023-08-02": 107,
       "2023-07-20": 212,
-      "2023-07-19": 331,
-      "2023-07-17": 258
+      "2023-07-19": 331
     }
   },
   {
@@ -46,11 +45,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 728,
-    "timeDay": 239,
-    "timeWeek": 332,
-    "timeMonth": 298,
-    "timeYear": 744,
+    "time": 727,
+    "timeDay": 128,
+    "timeWeek": 285,
+    "timeMonth": 290,
+    "timeYear": 741,
     "dailyMinutesDown": {
       "2024-01-12": 15,
       "2023-12-16": 50,
@@ -70,8 +69,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 66,
-    "timeDay": 53,
-    "timeWeek": 52,
+    "timeDay": 37,
+    "timeWeek": 49,
     "timeMonth": 50,
     "timeYear": 62,
     "dailyMinutesDown": {
@@ -87,18 +86,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/syncpoint.thorn.red.ico",
     "slug": "thorn-data-sync-service-china",
     "status": "up",
-    "uptime": "97.08%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
+    "uptime": "97.09%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "96.77%",
     "time": 1368,
-    "timeDay": 1097,
-    "timeWeek": 983,
-    "timeMonth": 999,
-    "timeYear": 1427,
+    "timeDay": 1070,
+    "timeWeek": 994,
+    "timeMonth": 993,
+    "timeYear": 1426,
     "dailyMinutesDown": {
-      "2024-07-15": 8,
       "2024-07-13": 18,
       "2024-07-09": 16,
       "2024-06-03": 611,
@@ -136,8 +134,7 @@
       "2023-08-04": 112,
       "2023-08-02": 107,
       "2023-07-20": 212,
-      "2023-07-19": 330,
-      "2023-07-17": 258
+      "2023-07-19": 330
     }
   },
   {
@@ -152,9 +149,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.24%",
     "time": 915,
-    "timeDay": 516,
-    "timeWeek": 708,
-    "timeMonth": 752,
+    "timeDay": 768,
+    "timeWeek": 724,
+    "timeMonth": 748,
     "timeYear": 914,
     "dailyMinutesDown": {
       "2024-05-23": 213,
@@ -173,8 +170,7 @@
       "2023-08-04": 111,
       "2023-08-02": 106,
       "2023-07-20": 212,
-      "2023-07-19": 330,
-      "2023-07-17": 258
+      "2023-07-19": 330
     }
   },
   {
@@ -189,9 +185,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.17%",
     "time": 384,
-    "timeDay": 164,
-    "timeWeek": 243,
-    "timeMonth": 298,
+    "timeDay": 212,
+    "timeWeek": 195,
+    "timeMonth": 290,
     "timeYear": 399,
     "dailyMinutesDown": {
       "2024-05-25": 43,
@@ -214,8 +210,7 @@
       "2023-08-04": 111,
       "2023-08-02": 106,
       "2023-07-20": 212,
-      "2023-07-19": 329,
-      "2023-07-17": 258
+      "2023-07-19": 329
     }
   }
 ]
