@@ -1,7 +1,7 @@
 url: https://auth.thorn.so
-status: down
-code: 502
-responseTime: 737
-lastUpdated: 2024-09-11T19:10:01.948Z
+status: up
+code: 200
+responseTime: 1040
+lastUpdated: 2024-09-11T19:20:54.028Z
 startTime: 2022-12-09T04:37:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
