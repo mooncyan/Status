@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.50%",
-    "time": 954,
-    "timeDay": 694,
-    "timeWeek": 843,
-    "timeMonth": 815,
-    "timeYear": 951,
+    "time": 953,
+    "timeDay": 706,
+    "timeWeek": 812,
+    "timeMonth": 807,
+    "timeYear": 950,
     "dailyMinutesDown": {
       "2024-05-23": 168,
       "2024-02-09": 172,
@@ -40,11 +40,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 663,
-    "timeDay": 116,
-    "timeWeek": 355,
-    "timeMonth": 260,
-    "timeYear": 649,
+    "time": 662,
+    "timeDay": 162,
+    "timeWeek": 295,
+    "timeMonth": 261,
+    "timeYear": 648,
     "dailyMinutesDown": {
       "2024-01-12": 15,
       "2023-12-16": 50
@@ -62,8 +62,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 61,
-    "timeDay": 42,
-    "timeWeek": 48,
+    "timeDay": 35,
+    "timeWeek": 46,
     "timeMonth": 50,
     "timeYear": 56,
     "dailyMinutesDown": {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "97.17%",
-    "time": 1356,
-    "timeDay": 957,
-    "timeWeek": 931,
-    "timeMonth": 968,
-    "timeYear": 1200,
+    "time": 1355,
+    "timeDay": 1048,
+    "timeWeek": 999,
+    "timeMonth": 967,
+    "timeYear": 1199,
     "dailyMinutesDown": {
       "2024-09-06": 19,
       "2024-07-27": 37,
@@ -110,8 +110,7 @@
       "2023-10-18": 100,
       "2023-10-17": 366,
       "2023-10-15": 17,
-      "2023-10-13": 40,
-      "2023-09-25": 79
+      "2023-10-13": 40
     }
   },
   {
@@ -125,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
-    "time": 892,
-    "timeDay": 700,
-    "timeWeek": 735,
-    "timeMonth": 762,
-    "timeYear": 873,
+    "time": 890,
+    "timeDay": 701,
+    "timeWeek": 739,
+    "timeMonth": 754,
+    "timeYear": 872,
     "dailyMinutesDown": {
       "2024-05-23": 213,
       "2024-02-09": 172,
@@ -151,15 +150,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sv.syncpoint.thorn.so.ico",
     "slug": "thorn-data-sync-service-north-america",
     "status": "up",
-    "uptime": "98.72%",
+    "uptime": "98.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
-    "time": 379,
-    "timeDay": 338,
-    "timeWeek": 263,
-    "timeMonth": 277,
+    "time": 378,
+    "timeDay": 192,
+    "timeWeek": 261,
+    "timeMonth": 275,
     "timeYear": 391,
     "dailyMinutesDown": {
       "2024-05-25": 43,
@@ -176,8 +175,7 @@
       "2023-10-17": 365,
       "2023-10-12": 303,
       "2023-10-11": 238,
-      "2023-10-03": 31,
-      "2023-09-25": 153
+      "2023-10-03": 31
     }
   }
 ]
