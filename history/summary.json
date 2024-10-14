@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.50%",
-    "time": 947,
-    "timeDay": 668,
-    "timeWeek": 891,
-    "timeMonth": 829,
-    "timeYear": 938,
+    "time": 946,
+    "timeDay": 619,
+    "timeWeek": 839,
+    "timeMonth": 831,
+    "timeYear": 937,
     "dailyMinutesDown": {
       "2024-05-23": 168,
       "2024-02-09": 172,
@@ -25,8 +25,7 @@
       "2023-10-21": 24,
       "2023-10-20": 545,
       "2023-10-18": 100,
-      "2023-10-17": 367,
-      "2023-10-15": 18
+      "2023-10-17": 367
     }
   },
   {
@@ -40,10 +39,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 653,
-    "timeDay": 335,
-    "timeWeek": 388,
-    "timeMonth": 312,
+    "time": 652,
+    "timeDay": 141,
+    "timeWeek": 355,
+    "timeMonth": 313,
     "timeYear": 624,
     "dailyMinutesDown": {
       "2024-01-12": 15,
@@ -62,8 +61,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 60,
-    "timeDay": 63,
-    "timeWeek": 45,
+    "timeDay": 51,
+    "timeWeek": 43,
     "timeMonth": 47,
     "timeYear": 54,
     "dailyMinutesDown": {
@@ -77,16 +76,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/syncpoint.thorn.red.ico",
     "slug": "thorn-data-sync-service-china",
     "status": "up",
-    "uptime": "97.46%",
+    "uptime": "97.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "97.19%",
+    "uptimeYear": "97.20%",
     "time": 1229,
-    "timeDay": 814,
-    "timeWeek": 976,
-    "timeMonth": 956,
-    "timeYear": 1187,
+    "timeDay": 1008,
+    "timeWeek": 968,
+    "timeMonth": 962,
+    "timeYear": 1184,
     "dailyMinutesDown": {
       "2024-09-28": 18,
       "2024-09-06": 19,
@@ -109,8 +108,7 @@
       "2023-10-21": 24,
       "2023-10-20": 545,
       "2023-10-18": 100,
-      "2023-10-17": 366,
-      "2023-10-15": 17
+      "2023-10-17": 366
     }
   },
   {
@@ -119,16 +117,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hk.syncpoint.thorn.so.ico",
     "slug": "thorn-data-sync-service-asia",
     "status": "up",
-    "uptime": "98.77%",
+    "uptime": "98.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
-    "time": 885,
-    "timeDay": 658,
-    "timeWeek": 777,
-    "timeMonth": 742,
-    "timeYear": 857,
+    "time": 884,
+    "timeDay": 607,
+    "timeWeek": 756,
+    "timeMonth": 744,
+    "timeYear": 856,
     "dailyMinutesDown": {
       "2024-05-23": 213,
       "2024-02-09": 172,
@@ -140,8 +138,7 @@
       "2023-10-21": 25,
       "2023-10-20": 544,
       "2023-10-18": 101,
-      "2023-10-17": 365,
-      "2023-10-15": 17
+      "2023-10-17": 365
     }
   },
   {
@@ -156,9 +153,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
     "time": 376,
-    "timeDay": 257,
-    "timeWeek": 195,
-    "timeMonth": 266,
+    "timeDay": 213,
+    "timeWeek": 191,
+    "timeMonth": 271,
     "timeYear": 383,
     "dailyMinutesDown": {
       "2024-05-25": 43,
