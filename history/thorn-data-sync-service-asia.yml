@@ -1,7 +1,7 @@
 url: https://hk.syncpoint.thorn.so/latency
-status: down
-code: 502
-responseTime: 551
-lastUpdated: 2024-12-26T19:10:01.786Z
+status: up
+code: 200
+responseTime: 1012
+lastUpdated: 2024-12-26T19:22:11.967Z
 startTime: 2022-12-09T03:28:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
