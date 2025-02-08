@@ -11,13 +11,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 916,
-    "timeDay": 737,
-    "timeWeek": 878,
-    "timeMonth": 958,
-    "timeYear": 861,
+    "timeDay": 1083,
+    "timeWeek": 901,
+    "timeMonth": 968,
+    "timeYear": 862,
     "dailyMinutesDown": {
-      "2024-05-23": 168,
-      "2024-02-09": 172
+      "2024-05-23": 168
     }
   },
   {
@@ -32,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 561,
-    "timeDay": 155,
-    "timeWeek": 235,
-    "timeMonth": 351,
+    "timeDay": 478,
+    "timeWeek": 256,
+    "timeMonth": 355,
     "timeYear": 468,
     "dailyMinutesDown": {}
   },
@@ -50,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 52,
-    "timeDay": 42,
-    "timeWeek": 49,
-    "timeMonth": 52,
+    "timeDay": 50,
+    "timeWeek": 51,
+    "timeMonth": 50,
     "timeYear": 49,
     "dailyMinutesDown": {}
   },
@@ -67,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.51%",
-    "time": 1149,
-    "timeDay": 1177,
-    "timeWeek": 1299,
-    "timeMonth": 1218,
-    "timeYear": 1081,
+    "time": 1150,
+    "timeDay": 1604,
+    "timeWeek": 1371,
+    "timeMonth": 1230,
+    "timeYear": 1082,
     "dailyMinutesDown": {
       "2024-11-18": 34,
       "2024-09-28": 18,
@@ -102,14 +101,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 848,
-    "timeDay": 960,
-    "timeWeek": 870,
-    "timeMonth": 931,
-    "timeYear": 809,
+    "time": 849,
+    "timeDay": 1274,
+    "timeWeek": 946,
+    "timeMonth": 948,
+    "timeYear": 811,
     "dailyMinutesDown": {
-      "2024-05-23": 213,
-      "2024-02-09": 172
+      "2024-05-23": 213
     }
   },
   {
@@ -118,16 +116,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sv.syncpoint.thorn.so.ico",
     "slug": "thorn-data-sync-service-north-america",
     "status": "up",
-    "uptime": "98.94%",
+    "uptime": "98.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 373,
-    "timeDay": 385,
-    "timeWeek": 338,
-    "timeMonth": 381,
-    "timeYear": 367,
+    "time": 372,
+    "timeDay": 160,
+    "timeWeek": 333,
+    "timeMonth": 371,
+    "timeYear": 366,
     "dailyMinutesDown": {
       "2024-05-25": 43,
       "2024-05-23": 213
