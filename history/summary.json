@@ -5,19 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.thorn.so.ico",
     "slug": "thorn-auth-service",
     "status": "up",
-    "uptime": "99.13%",
+    "uptime": "99.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 859,
-    "timeDay": 824,
-    "timeWeek": 854,
-    "timeMonth": 852,
+    "time": 860,
+    "timeDay": 913,
+    "timeWeek": 869,
+    "timeMonth": 849,
     "timeYear": 839,
     "dailyMinutesDown": {
-      "2025-04-02": 219,
-      "2024-05-23": 168
+      "2025-04-02": 219
     }
   },
   {
@@ -31,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 454,
-    "timeDay": 130,
-    "timeWeek": 305,
-    "timeMonth": 319,
-    "timeYear": 319,
+    "time": 453,
+    "timeDay": 362,
+    "timeWeek": 296,
+    "timeMonth": 320,
+    "timeYear": 318,
     "dailyMinutesDown": {
       "2025-04-02": 219
     }
@@ -52,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 51,
-    "timeDay": 23,
-    "timeWeek": 38,
+    "timeDay": 27,
+    "timeWeek": 37,
     "timeMonth": 42,
     "timeYear": 49,
     "dailyMinutesDown": {
@@ -66,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/syncpoint.thorn.red.ico",
     "slug": "thorn-data-sync-service-china",
     "status": "up",
-    "uptime": "98.08%",
+    "uptime": "98.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "97.50%",
     "time": 1115,
-    "timeDay": 1205,
-    "timeWeek": 1233,
+    "timeDay": 1300,
+    "timeWeek": 1289,
     "timeMonth": 1277,
-    "timeYear": 1082,
+    "timeYear": 1083,
     "dailyMinutesDown": {
       "2025-05-19": 17,
       "2025-05-06": 28,
@@ -109,13 +108,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 803,
-    "timeDay": 858,
-    "timeWeek": 669,
+    "timeDay": 910,
+    "timeWeek": 727,
     "timeMonth": 796,
     "timeYear": 786,
     "dailyMinutesDown": {
-      "2025-04-02": 219,
-      "2024-05-23": 213
+      "2025-04-02": 219
     }
   },
   {
@@ -130,14 +128,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 346,
-    "timeDay": 488,
-    "timeWeek": 279,
-    "timeMonth": 299,
-    "timeYear": 319,
+    "timeDay": 484,
+    "timeWeek": 298,
+    "timeMonth": 307,
+    "timeYear": 320,
     "dailyMinutesDown": {
       "2025-04-02": 219,
-      "2024-05-25": 43,
-      "2024-05-23": 213
+      "2024-05-25": 43
     }
   }
 ]
