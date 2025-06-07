@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 858,
-    "timeDay": 691,
-    "timeWeek": 971,
-    "timeMonth": 863,
-    "timeYear": 838,
+    "time": 857,
+    "timeDay": 635,
+    "timeWeek": 974,
+    "timeMonth": 854,
+    "timeYear": 837,
     "dailyMinutesDown": {
       "2025-04-02": 219
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 444,
-    "timeDay": 149,
-    "timeWeek": 267,
-    "timeMonth": 368,
+    "time": 442,
+    "timeDay": 206,
+    "timeWeek": 277,
+    "timeMonth": 369,
     "timeYear": 319,
     "dailyMinutesDown": {
       "2025-04-02": 219
@@ -51,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 50,
-    "timeDay": 38,
-    "timeWeek": 35,
+    "timeDay": 62,
+    "timeWeek": 40,
     "timeMonth": 39,
     "timeYear": 48,
     "dailyMinutesDown": {
@@ -68,12 +68,12 @@
     "uptime": "98.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 1112,
-    "timeDay": 1243,
-    "timeWeek": 1071,
-    "timeMonth": 1251,
+    "time": 1111,
+    "timeDay": 949,
+    "timeWeek": 1104,
+    "timeMonth": 1177,
     "timeYear": 1083,
     "dailyMinutesDown": {
       "2025-05-19": 17,
@@ -92,16 +92,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hk.syncpoint.thorn.so.ico",
     "slug": "thorn-data-sync-service-asia",
     "status": "up",
-    "uptime": "99.07%",
+    "uptime": "99.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 800,
-    "timeDay": 619,
-    "timeWeek": 763,
-    "timeMonth": 767,
-    "timeYear": 784,
+    "time": 799,
+    "timeDay": 623,
+    "timeWeek": 741,
+    "timeMonth": 765,
+    "timeYear": 783,
     "dailyMinutesDown": {
       "2025-04-02": 219
     }
@@ -118,10 +118,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 349,
-    "timeDay": 194,
-    "timeWeek": 810,
-    "timeMonth": 381,
-    "timeYear": 308,
+    "timeDay": 185,
+    "timeWeek": 830,
+    "timeMonth": 375,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2025-04-02": 219
     }
