@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 846,
-    "timeDay": 702,
+    "timeDay": 632,
     "timeWeek": 715,
-    "timeMonth": 770,
-    "timeYear": 831,
+    "timeMonth": 755,
+    "timeYear": 830,
     "dailyMinutesDown": {
       "2025-04-02": 219
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 425,
-    "timeDay": 157,
-    "timeWeek": 199,
-    "timeMonth": 305,
+    "timeDay": 177,
+    "timeWeek": 201,
+    "timeMonth": 296,
     "timeYear": 316,
     "dailyMinutesDown": {
       "2025-04-02": 219
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 49,
-    "timeDay": 47,
+    "timeDay": 33,
     "timeWeek": 40,
-    "timeMonth": 40,
+    "timeMonth": 39,
     "timeYear": 48,
     "dailyMinutesDown": {
       "2025-04-02": 219
@@ -65,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/syncpoint.thorn.red.ico",
     "slug": "thorn-data-sync-service-china",
     "status": "up",
-    "uptime": "98.14%",
+    "uptime": "98.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1108,
-    "timeDay": 1279,
-    "timeWeek": 1092,
-    "timeMonth": 1099,
-    "timeYear": 1087,
+    "time": 1106,
+    "timeDay": 722,
+    "timeWeek": 1038,
+    "timeMonth": 1079,
+    "timeYear": 1086,
     "dailyMinutesDown": {
       "2025-05-19": 17,
       "2025-05-06": 28,
@@ -97,10 +97,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 806,
-    "timeDay": 911,
-    "timeWeek": 942,
-    "timeMonth": 880,
+    "time": 805,
+    "timeDay": 528,
+    "timeWeek": 927,
+    "timeMonth": 876,
     "timeYear": 792,
     "dailyMinutesDown": {
       "2025-04-02": 219
@@ -117,11 +117,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 338,
-    "timeDay": 254,
-    "timeWeek": 198,
-    "timeMonth": 340,
-    "timeYear": 302,
+    "time": 337,
+    "timeDay": 44,
+    "timeWeek": 173,
+    "timeMonth": 335,
+    "timeYear": 301,
     "dailyMinutesDown": {
       "2025-04-02": 219
     }
