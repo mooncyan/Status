@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 846,
-    "timeDay": 933,
-    "timeWeek": 1295,
-    "timeMonth": 812,
-    "timeYear": 835,
+    "timeDay": 561,
+    "timeWeek": 1272,
+    "timeMonth": 807,
+    "timeYear": 834,
     "dailyMinutesDown": {
       "2025-04-02": 219
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 404,
-    "timeDay": 4033,
-    "timeWeek": 852,
-    "timeMonth": 367,
+    "time": 403,
+    "timeDay": 545,
+    "timeWeek": 908,
+    "timeMonth": 382,
     "timeYear": 326,
     "dailyMinutesDown": {
       "2025-04-02": 219
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 49,
-    "timeDay": 45,
-    "timeWeek": 42,
-    "timeMonth": 42,
+    "timeDay": 62,
+    "timeWeek": 46,
+    "timeMonth": 43,
     "timeYear": 47,
     "dailyMinutesDown": {
       "2025-04-02": 219
@@ -71,10 +71,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1104,
-    "timeDay": 1130,
-    "timeWeek": 1209,
-    "timeMonth": 1129,
-    "timeYear": 1094,
+    "timeDay": 1366,
+    "timeWeek": 1227,
+    "timeMonth": 1132,
+    "timeYear": 1095,
     "dailyMinutesDown": {
       "2025-05-19": 17,
       "2025-05-06": 28,
@@ -98,10 +98,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 801,
-    "timeDay": 1121,
-    "timeWeek": 819,
-    "timeMonth": 901,
-    "timeYear": 793,
+    "timeDay": 561,
+    "timeWeek": 762,
+    "timeMonth": 896,
+    "timeYear": 792,
     "dailyMinutesDown": {
       "2025-04-02": 219
     }
@@ -117,11 +117,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 331,
-    "timeDay": 262,
-    "timeWeek": 267,
-    "timeMonth": 202,
-    "timeYear": 297,
+    "time": 330,
+    "timeDay": 128,
+    "timeWeek": 250,
+    "timeMonth": 195,
+    "timeYear": 296,
     "dailyMinutesDown": {
       "2025-04-02": 219
     }
