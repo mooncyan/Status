@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 830,
-    "timeDay": 511,
-    "timeWeek": 873,
-    "timeMonth": 776,
+    "time": 829,
+    "timeDay": 606,
+    "timeWeek": 861,
+    "timeMonth": 770,
     "timeYear": 830,
     "dailyMinutesDown": {
       "2025-04-02": 219
@@ -24,18 +24,19 @@
     "url": "https://www.thorn.so",
     "icon": "https://icons.duckduckgo.com/ip3/www.thorn.so.ico",
     "slug": "thorn-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 348,
-    "timeDay": 209,
-    "timeWeek": 270,
+    "time": 347,
+    "timeDay": 0,
+    "timeWeek": 289,
     "timeMonth": 226,
-    "timeYear": 319,
+    "timeYear": 320,
     "dailyMinutesDown": {
+      "2025-08-25": 0,
       "2025-04-02": 219
     }
   },
@@ -50,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 49,
-    "timeDay": 48,
-    "timeWeek": 48,
-    "timeMonth": 44,
-    "timeYear": 46,
+    "time": 72,
+    "timeDay": 11843,
+    "timeWeek": 1734,
+    "timeMonth": 413,
+    "timeYear": 79,
     "dailyMinutesDown": {
       "2025-04-02": 219
     }
@@ -71,9 +72,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
     "time": 1095,
-    "timeDay": 1065,
-    "timeWeek": 1134,
-    "timeMonth": 1149,
+    "timeDay": 1031,
+    "timeWeek": 1111,
+    "timeMonth": 1145,
     "timeYear": 1098,
     "dailyMinutesDown": {
       "2025-08-19": 36,
@@ -96,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 785,
-    "timeDay": 504,
-    "timeWeek": 681,
-    "timeMonth": 681,
+    "timeDay": 872,
+    "timeWeek": 705,
+    "timeMonth": 687,
     "timeYear": 785,
     "dailyMinutesDown": {
       "2025-04-02": 219
@@ -116,10 +117,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 310,
-    "timeDay": 51,
-    "timeWeek": 226,
-    "timeMonth": 237,
-    "timeYear": 290,
+    "timeDay": 188,
+    "timeWeek": 181,
+    "timeMonth": 235,
+    "timeYear": 289,
     "dailyMinutesDown": {
       "2025-04-02": 219
     }
