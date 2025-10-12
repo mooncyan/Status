@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 811,
-    "timeDay": 633,
-    "timeWeek": 579,
-    "timeMonth": 662,
+    "timeDay": 651,
+    "timeWeek": 599,
+    "timeMonth": 655,
     "timeYear": 811,
     "dailyMinutesDown": {
       "2025-04-02": 219
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 307,
-    "timeDay": 138,
-    "timeWeek": 216,
-    "timeMonth": 246,
+    "timeDay": 116,
+    "timeWeek": 210,
+    "timeMonth": 239,
     "timeYear": 313,
     "dailyMinutesDown": {
       "2025-04-02": 219
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 71,
-    "timeDay": 25,
-    "timeWeek": 46,
-    "timeMonth": 44,
+    "timeDay": 27,
+    "timeWeek": 42,
+    "timeMonth": 42,
     "timeYear": 78,
     "dailyMinutesDown": {
       "2025-04-02": 219
@@ -65,14 +65,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/syncpoint.thorn.red.ico",
     "slug": "thorn-data-sync-service-china",
     "status": "up",
-    "uptime": "98.34%",
+    "uptime": "98.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1104,
-    "timeDay": 1076,
-    "timeWeek": 984,
+    "timeDay": 1007,
+    "timeWeek": 1002,
     "timeMonth": 1071,
     "timeYear": 1115,
     "dailyMinutesDown": {
@@ -94,9 +94,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 769,
-    "timeDay": 645,
-    "timeWeek": 572,
-    "timeMonth": 666,
+    "timeDay": 811,
+    "timeWeek": 613,
+    "timeMonth": 672,
     "timeYear": 773,
     "dailyMinutesDown": {
       "2025-04-02": 219
@@ -114,10 +114,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 284,
-    "timeDay": 188,
-    "timeWeek": 150,
-    "timeMonth": 208,
-    "timeYear": 280,
+    "timeDay": 259,
+    "timeWeek": 149,
+    "timeMonth": 211,
+    "timeYear": 281,
     "dailyMinutesDown": {
       "2025-04-02": 219
     }
