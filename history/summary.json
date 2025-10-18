@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 808,
-    "timeDay": 509,
-    "timeWeek": 610,
-    "timeMonth": 626,
-    "timeYear": 810,
+    "timeDay": 530,
+    "timeWeek": 595,
+    "timeMonth": 624,
+    "timeYear": 809,
     "dailyMinutesDown": {
       "2025-04-02": 219
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 304,
-    "timeDay": 226,
-    "timeWeek": 169,
-    "timeMonth": 183,
+    "time": 305,
+    "timeDay": 382,
+    "timeWeek": 203,
+    "timeMonth": 189,
     "timeYear": 313,
     "dailyMinutesDown": {
       "2025-04-02": 219
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 71,
-    "timeDay": 44,
-    "timeWeek": 34,
-    "timeMonth": 40,
+    "timeDay": 129,
+    "timeWeek": 49,
+    "timeMonth": 42,
     "timeYear": 78,
     "dailyMinutesDown": {
       "2025-04-02": 219
@@ -65,15 +65,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/syncpoint.thorn.red.ico",
     "slug": "thorn-data-sync-service-china",
     "status": "up",
-    "uptime": "98.35%",
+    "uptime": "98.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1105,
-    "timeDay": 919,
-    "timeWeek": 1073,
-    "timeMonth": 1065,
+    "timeDay": 1167,
+    "timeWeek": 1086,
+    "timeMonth": 1067,
     "timeYear": 1118,
     "dailyMinutesDown": {
       "2025-08-19": 36,
@@ -93,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 766,
-    "timeDay": 523,
-    "timeWeek": 611,
-    "timeMonth": 620,
-    "timeYear": 772,
+    "time": 765,
+    "timeDay": 524,
+    "timeWeek": 593,
+    "timeMonth": 618,
+    "timeYear": 771,
     "dailyMinutesDown": {
       "2025-04-02": 219
     }
@@ -108,16 +108,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sv.syncpoint.thorn.so.ico",
     "slug": "thorn-data-sync-service-north-america",
     "status": "up",
-    "uptime": "99.18%",
+    "uptime": "99.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 281,
-    "timeDay": 132,
-    "timeWeek": 162,
-    "timeMonth": 176,
-    "timeYear": 280,
+    "time": 280,
+    "timeDay": 56,
+    "timeWeek": 144,
+    "timeMonth": 173,
+    "timeYear": 278,
     "dailyMinutesDown": {
       "2025-04-02": 219
     }
