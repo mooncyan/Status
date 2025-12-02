@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 796,
-    "timeDay": 678,
-    "timeWeek": 627,
-    "timeMonth": 649,
+    "time": 797,
+    "timeDay": 691,
+    "timeWeek": 651,
+    "timeMonth": 651,
     "timeYear": 797,
     "dailyMinutesDown": {
       "2025-04-02": 219
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.93%",
-    "time": 299,
-    "timeDay": 170,
-    "timeWeek": 179,
-    "timeMonth": 187,
-    "timeYear": 311,
+    "time": 298,
+    "timeDay": 174,
+    "timeWeek": 172,
+    "timeMonth": 181,
+    "timeYear": 310,
     "dailyMinutesDown": {
       "2025-11-18": 128,
       "2025-04-02": 219
@@ -51,9 +51,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.93%",
-    "time": 69,
-    "timeDay": 49,
-    "timeWeek": 52,
+    "time": 70,
+    "timeDay": 42,
+    "timeWeek": 38,
     "timeMonth": 39,
     "timeYear": 77,
     "dailyMinutesDown": {
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1105,
-    "timeDay": 1378,
-    "timeWeek": 1164,
-    "timeMonth": 1197,
-    "timeYear": 1149,
+    "time": 1106,
+    "timeDay": 1458,
+    "timeWeek": 1232,
+    "timeMonth": 1203,
+    "timeYear": 1150,
     "dailyMinutesDown": {
       "2025-08-19": 36,
       "2025-05-19": 17,
@@ -95,10 +95,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 757,
-    "timeDay": 760,
-    "timeWeek": 676,
+    "timeDay": 703,
+    "timeWeek": 653,
     "timeMonth": 645,
-    "timeYear": 760,
+    "timeYear": 759,
     "dailyMinutesDown": {
       "2025-04-02": 219
     }
@@ -115,10 +115,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 273,
-    "timeDay": 288,
-    "timeWeek": 183,
+    "timeDay": 230,
+    "timeWeek": 207,
     "timeMonth": 183,
-    "timeYear": 267,
+    "timeYear": 266,
     "dailyMinutesDown": {
       "2025-04-02": 219
     }
