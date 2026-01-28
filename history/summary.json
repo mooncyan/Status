@@ -24,10 +24,10 @@
     "url": "https://www.thorn.so",
     "icon": "https://icons.duckduckgo.com/ip3/www.thorn.so.ico",
     "slug": "thorn-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 285,
@@ -36,6 +36,7 @@
     "timeMonth": 168,
     "timeYear": 262,
     "dailyMinutesDown": {
+      "2026-01-28": 1,
       "2025-11-18": 128,
       "2025-04-02": 219
     }
