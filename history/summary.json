@@ -4,9 +4,9 @@
     "url": "https://auth.thorn.so",
     "icon": "https://icons.duckduckgo.com/ip3/auth.thorn.so.ico",
     "slug": "thorn-auth-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -16,6 +16,7 @@
     "timeMonth": 628,
     "timeYear": 721,
     "dailyMinutesDown": {
+      "2026-04-01": 0,
       "2025-04-02": 219
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://www.thorn.so",
     "icon": "https://icons.duckduckgo.com/ip3/www.thorn.so.ico",
     "slug": "thorn-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -36,6 +37,7 @@
     "timeMonth": 319,
     "timeYear": 259,
     "dailyMinutesDown": {
+      "2026-04-01": 0,
       "2026-02-24": 56,
       "2026-01-28": 46,
       "2025-11-18": 128,
@@ -47,9 +49,9 @@
     "url": "https://www.thorn.so",
     "icon": "https://icons.duckduckgo.com/ip3/www.thorn.so.ico",
     "slug": "thorn-website-china",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -59,6 +61,7 @@
     "timeMonth": 48,
     "timeYear": 79,
     "dailyMinutesDown": {
+      "2026-04-01": 0,
       "2025-11-18": 128,
       "2025-04-02": 219
     }
@@ -90,9 +93,9 @@
     "url": "https://hk.syncpoint.thorn.so/latency",
     "icon": "https://icons.duckduckgo.com/ip3/hk.syncpoint.thorn.so.ico",
     "slug": "thorn-data-sync-service-asia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -102,6 +105,7 @@
     "timeMonth": 605,
     "timeYear": 687,
     "dailyMinutesDown": {
+      "2026-04-01": 0,
       "2025-04-02": 219
     }
   },
@@ -110,9 +114,9 @@
     "url": "https://sv.syncpoint.thorn.so/latency",
     "icon": "https://icons.duckduckgo.com/ip3/sv.syncpoint.thorn.so.ico",
     "slug": "thorn-data-sync-service-north-america",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -122,6 +126,7 @@
     "timeMonth": 182,
     "timeYear": 222,
     "dailyMinutesDown": {
+      "2026-04-01": 0,
       "2025-04-02": 219
     }
   }
